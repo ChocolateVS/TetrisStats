@@ -1,5 +1,5 @@
-let countArr = [0, 0, 0, 0, 0, 0];
-let pArr = [0, 0, 0, 0, 0, 0];
+let countArr = [0, 0, 0, 0, 0, 0, 0];
+let pArr = [0, 0, 0, 0, 0, 0, 0];
 let peices = 0;
 function peice(val) {
     peices++;
